@@ -18,16 +18,16 @@ Unit 1: Excel - Tables - Tabular Data
 
  ● Microsoft Excel ● VBA Scripting ● Statistical Modeling ● Statistical Forecasting
 
-*  1. [Kickstarter Analysis](https://github.com/bigoshunane/Excel-challenge-HM-1)
-*  2. [ Wall Street Stock Analysis](https://github.com/bigoshunane/VBA-challenge-HM-2)
+*  a. [Kickstarter Analysis](https://github.com/bigoshunane/Excel-challenge-HM-1)
+*  b. [ Wall Street Stock Analysis](https://github.com/bigoshunane/VBA-challenge-HM-2)
 
 Unit 2: Python - Data Analytics
 
 ● Python ● NumPy ● Pandas ● Matplotlib ● Flask ● APIs ● JSON ● Requests ● Beautiful Soup
-* i. [Financial data Analysis](https://github.com/bigoshunane/Python-Challenge-HM-3)
-* ii. [School District Data Analysis](https://github.com/bigoshunane/Pandas-Challenge-HM-4)
-* iii.[Pymaceuticals Inc Data Analysis](https://github.com/bigoshunane/Matplotlib-Challenge-HM-5)
-* iv. [World Weather Analysis](https://github.com/bigoshunane/Python-API-Challenge-HM-6)
+* a. [Financial data Analysis](https://github.com/bigoshunane/Python-Challenge-HM-3)
+* b. [School District Data Analysis](https://github.com/bigoshunane/Pandas-Challenge-HM-4)
+* c. [Pymaceuticals Inc Data Analysis](https://github.com/bigoshunane/Matplotlib-Challenge-HM-5)
+* d. [World Weather Analysis](https://github.com/bigoshunane/Python-API-Challenge-HM-6)
 
 
 - 🌱 I’m currently learning ...
