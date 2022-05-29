@@ -30,7 +30,7 @@ Unit 2: Python - Data Analytics
 * [Pharmaceuticals Inc Data Analysis](https://github.com/bigoshunane/Matplotlib-Challenge-HM-5)
 * [World Weather Analysis](https://github.com/bigoshunane/Python-API-Challenge-HM-6)
 
-Unit 3: Databases - Data Modeling
+Unit 3: Databases - Data Modeling - Data Engineering
 
 ● SQL ● PostgreSQL / pgAdmin ● NoSQL ● MongoDB / Compass
 
