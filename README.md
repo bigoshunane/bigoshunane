@@ -27,7 +27,7 @@ Unit 2: Python - Data Analytics
 ● Python ● NumPy ● Pandas ● Matplotlib ● Flask ● APIs ● JSON ● Requests ● Beautiful Soup
 * [Financial data Analysis](https://github.com/bigoshunane/Python-Challenge-HM-3)
 * [School District Data Analysis](https://github.com/bigoshunane/Pandas-Challenge-HM-4)
-* [Pymaceuticals Inc Data Analysis](https://github.com/bigoshunane/Matplotlib-Challenge-HM-5)
+* [Pharmaceuticals Inc Data Analysis](https://github.com/bigoshunane/Matplotlib-Challenge-HM-5)
 * [World Weather Analysis](https://github.com/bigoshunane/Python-API-Challenge-HM-6)
 
 Unit 3: Databases - Data Modeling
