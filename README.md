@@ -18,8 +18,8 @@ Unit 1: Excel - Tables - Tabular Data
 
  ● Microsoft Excel ● VBA Scripting ● Statistical Modeling ● Statistical Forecasting
 
-* i. [Kickstarter Analysis](https://github.com/bigoshunane/Excel-challenge-HM-1)
-* ii. [ Wall Street Stock Analysis](https://github.com/bigoshunane/VBA-challenge-HM-2)
+*  1. [Kickstarter Analysis](https://github.com/bigoshunane/Excel-challenge-HM-1)
+*  2. [ Wall Street Stock Analysis](https://github.com/bigoshunane/VBA-challenge-HM-2)
 
 Unit 2: Python - Data Analytics
 
