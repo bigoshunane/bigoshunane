@@ -49,7 +49,7 @@ Unit 4: Front end web visualization - Communicating
 
 Unit 5: Data Engineering - Data Science - Machine Learning - Business Intelligence
 
-● Tableau ● Apache Hadoop & Spark ● Machine learning (ML) ● DataBricks
+● Tableau ● Apache Hadoop & Spark ● Machine learning (ML) ● DataBricks ● Deep learning
 
 * [New York Citibikes Analytics](https://github.com/bigoshunane/Tableau-Homework-13)
 * [Credit Risk Analysis](https://github.com/bigoshunane/Supervised-Machine-Learning-HM-14)
