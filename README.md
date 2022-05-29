@@ -5,13 +5,14 @@ Multidisciplinary Data Analyst, with passion for condensing large data into a si
 
 ## Outline of my works are listed below:
 
+## Projects
+1. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
+2. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
+3. [Michelin Data Visualization](https://github.com/bigoshunane/Project-3)
 
 
 
-
-
-
-### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp.]([https://bootcamp.sas.upenn.edu/data/)
+## Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
 
 
 Unit 1: Excel - Tables - Tabular Data
@@ -53,7 +54,8 @@ Unit 5: Data Engineering - Data Science - Machine Learning - Business Intelligen
 * [New York Citibikes Analytics](https://github.com/bigoshunane/Tableau-Homework-13)
 * [Credit Risk Analysis](https://github.com/bigoshunane/Supervised-Machine-Learning-HM-14)
 * [Cryptocurrency Clusters Analysis](https://github.com/bigoshunane/Unsupervised-Machine-Learning-HM-15)
-* 
+* [Charity Funding Predictor](https://github.com/bigoshunane/Deep-Learning-HM-16)
+* [Amazon Vine Analysis](https://github.com/bigoshunane/Big-data-challenge-HM-17)
 
 
 - 🌱 I’m currently learning ...
