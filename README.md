@@ -14,11 +14,12 @@ Multidisciplinary Data Analyst, Systems and Materials Engineer with passion for 
 ## Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp.]([https://bootcamp.sas.upenn.edu/data/)
 
 Unit 1: Excel - Tables - Tabular Data
-<br>
+
+
  ● Microsoft Excel ● VBA Scripting ● Statistical Modeling ● Statistical Forecasting
 
-* 1. [https://github.com/bigoshunane/Excel-challenge-HM-1]
-* 2. [https://github.com/bigoshunane/VBA-challenge-HM-2]
+* 1. [https://github.com/bigoshunane/Excel-challenge-HM-1]()
+* 2. [https://github.com/bigoshunane/VBA-challenge-HM-2]()
 
 
 
