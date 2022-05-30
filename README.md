@@ -8,7 +8,7 @@ Multidisciplinary Data Analyst, with passion for condensing large data into a si
 ### Projects
 1. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
 2. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
-3. [Michelin Data Visualization](https://github.com/bigoshunane/Project-3)
+3. [Michelin Data Visualization and Web app development](https://github.com/bigoshunane/Project-3)
 
 
 
