@@ -9,7 +9,7 @@ Multidisciplinary Data Analyst, with passion for condensing large data into a si
 1. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
 2. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
 3. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
-4. [Non-Michelin-Restaurant reviews pridictor via Unsupervised Machine Learning](https://public.tableau.com/app/profile/shannon.kane/viz/ShannonKane_Michelin_Infatuation_KNearestNeighbors_5_29_22/MainPresentation?publish=yes)
+4. [Non-Michelin-Restaurant reviews pridictor via Unsupervised Machine Learning](https://michelin-master-app.herokuapp.com/machine-learning)
 
 ### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
 
