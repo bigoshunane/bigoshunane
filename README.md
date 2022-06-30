@@ -6,10 +6,11 @@ Multidisciplinary Data Analyst, with passion for condensing large data into a si
 #### Outline of my works are listed below:
 
 ### Projects
-1. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
-2. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
-3. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
-4. [Non-Michelin-Restaurant reviews predictor via Unsupervised Machine Learning](https://michelin-master-app.herokuapp.com/machine-learning)
+1. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
+2. [Non-Michelin-Restaurant reviews predictor via Unsupervised Machine Learning](https://michelin-master-app.herokuapp.com/machine-learning)
+3. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
+4. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
+
 
 ### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
 
