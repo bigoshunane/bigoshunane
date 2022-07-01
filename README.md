@@ -8,8 +8,9 @@ Multidisciplinary Data Analyst, with passion for condensing large data into a si
 ### Projects
 1. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
 2. [Non-Michelin-Restaurant reviews predictor via Unsupervised Machine Learning](https://michelin-master-app.herokuapp.com/machine-learning)
-3. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
-4. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
+3. [Effects of Hurricanes Analysis](https://github.com/mchrzanowski27/Project1)
+4. [Health Care Cost Analysis](https://github.com/Joseph-Neff/Project-2)
+
 
 
 ### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
@@ -34,14 +35,14 @@ Unit 3: Databases - Data Modeling - Data Engineering
 
 ● SQL ● PostgreSQL / pgAdmin ● NoSQL ● MongoDB / Compass
 
-* [ Pewlett Hackard Analysis](https://github.com/bigoshunane/SQL-Challenge-HM-7)
+* [Pewlett Hackard Analysis](https://github.com/bigoshunane/SQL-Challenge-HM-7)
 * [Hawaii Climate Analysis](https://github.com/bigoshunane/SQLAlchemy-Challenge-HM-8)
 
 Unit 4: Front end web visualization - Communicating
 
 ● HTML ● CSS ● Bootstrap ● JavaScript ● D3.js ● Leaflet
 
-* [ Web Design-Visualization Dashboard](https://github.com/bigoshunane/Web-Design-Challenge-HM-9)
+* [Web Design-Visualization Dashboard](https://github.com/bigoshunane/Web-Design-Challenge-HM-9)
 * [Mission to Mars](https://github.com/bigoshunane/Web-Scraping-Challenge-HM-10)
 * [Belly Button Biodiversity](https://github.com/bigoshunane/Plotly-HM-11)
 * [Earthquake Analysis](https://github.com/bigoshunane/leaflet-challenge-HM-12)
