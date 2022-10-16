@@ -9,7 +9,7 @@ Multidisciplinary Data Analyst, with passion for condensing large data into a si
 1. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
 2. [New York Citibikes Analytics Dashboard: Tableau](https://github.com/bigoshunane/New-York-Citibikes-Analytics-by-Tableau)
 3. [Pewlett Hackard Analysis: Data Modeling & Engineering](https://github.com/bigoshunane/Pewlett-Hackard-Analysis-Data-Modeling)
-4. [Big Data Amazon Vine Analysis: ETL-Pipeline](https://github.com/bigoshunane/Big-Data-Amazon-Vine-Analysis-ETL-Pipeline)
+4. [Big Data Amazon Vine Analysis: ETL-Pipeline](https://github.com/bigoshunane/Big-Data-ETL-Pipeline-Project)
 
 
 ### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
