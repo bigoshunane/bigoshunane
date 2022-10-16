@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Shunane
 
-Multidisciplinary Data Analyst, with passion for condensing large data into a simple to understand story. Adept at working independently and collaborating with teams across multiple functions to take information from a wide variety of sources and effectively breakdown concepts in layman terms to diverse audiences. My analytical problem solving abilities combined with strengths in willingness to learn new skills taking on brand new projects makes me a valuable addition to any team. Excited to leverage my skills in the future as part of any data-driven team. 
+Multidisciplinary Data analyst, Systems and Materials Engineer with passion for system development with efficient UI friendly. Skilled in Python, JavaScript, Tableau, Power BI, Apache Hadoop & PySpark , and both SQL and NoSQL databases (PostgreSQL, MongoDB). Strengths; adept at working independently and collaborating with teams across multiple functions to take information from a wide variety of sources and effectively breakdown concepts in layman terms to diverse audiences.
+Moreover, possess a foundational knowledge of stimuli responsive materials needed to evaluate their structure activity relationships through novel materials characterization techniques. 
+With each project, my aim is to learn new skills and to make the most UI friendly experience in any system development projects. I am excited to leverage my skills as part of a fast-paced quality-driven team to build better experiences for the users who will come across my works.
+
 
 
 #### Outline of my works are listed below:
