@@ -14,7 +14,7 @@ With each project, my aim is to learn new skills and to make the most UI friendl
 2. [New York Citibikes Analytics Dashboard: Tableau](https://github.com/bigoshunane/New-York-Citibikes-Analytics-by-Tableau)
 3. [Pewlett Hackard Analysis: Data Modeling & Engineering](https://github.com/bigoshunane/Pewlett-Hackard-Analysis-Data-Modeling)
 4. [Big Data Amazon Vine Analysis: ETL-Pipeline](https://github.com/bigoshunane/Big-Data-ETL-Pipeline-Project)
-5. [Study of the anisotropic microstructure of uniaxially cold compacted metal powders](https://github.com/bigoshunane/Thesis-Project-MS)
+5. [The Study of the anisotropic microstructure of uniaxially cold compacted metal powders](https://github.com/bigoshunane/Thesis-Project-MS)
 
 ### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
 
