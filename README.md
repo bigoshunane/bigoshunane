@@ -1,10 +1,7 @@
 ### Hi there 👋 I am Shunane
 
-Data analyst, Systems and Materials Engineer with passion for system & product development with efficient UI friendly. Strengths; adept at working independently and collaborating with teams across multiple functions to take information from a wide variety of sources and effectively breakdown concepts in layman terms to diverse audiences.
-Possess a foundational knowledge of stimuli responsive materials needed to evaluate their structure activity relationships through novel materials characterization techniques. 
-With each project, my aim is to learn new skills and to make the most UI friendly experience in any system development projects. I am excited to leverage my skills as part of a fast-paced quality-driven team to build better experiences for the users who will come across my works.
-
-
+Multidisciplinary systems and materials engineer & data analyst with passion for materials for energy. Possess a foundational knowledge of stimuli responsive materials needed to evaluate their structure activity relationships through novel materials characterization techniques such as SEM, XRD & FTIR. Moreover, skilled in Python, JavaScript, Tableau, Power BI, Apache Hadoop & PySpark, and both SQL and NoSQL databases (PostgreSQL, MongoDB). Strengths; adept at working independently and collaborating with teams across multiple functions to take information from a wide variety of sources and effectively breakdown concepts in layman terms to diverse audiences.
+With each project, my aim is to learn new skills and to make the most energy efficient product in any product development projects. I am excited to leverage my skills as part of a fast-paced quality-driven team to build better future & experiences for the users who will come across my works.
 
 
 #### Outline of my works are listed below:
