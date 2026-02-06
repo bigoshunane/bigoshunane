@@ -1,17 +1,17 @@
-### Hi there 👋 I am Shunane
+### Hi there 👋 I am Workineh
 
-Controls and automation enthusiast with hands-on experience supporting industrial and facility control systems in high-volume lithium-ion battery manufacturing environments. Knowledgeable with HVAC controls system documentation, PID tuning, networking and troubleshooting facilities control systems and process instrumentation. Practical experience in PLC programming, process control, PID tuning, AC/DC circuits, motor controls and hydraulics and pneumatics. Holds an MS in Materials Engineering and a BS in Chemical Engineering, with a strong foundation in process engineering, instrumentation and data analysis. Possess a root-cause problem solving mindset developed through roles at Tesla, PECNA ,materials research laboratories, and academic research institutions. Brings a continuous improvement (Kaizen) mindset, cross-functional collaboration experience, and the ability to bridge controls engineering, process understanding, and data-driven decision-making to improve system reliability, safety, efficiency and performance.
-
+Industrial Controls and automation enthusiast with hands-on experience supporting industrial and facility control systems in high-volume lithium-ion battery manufacturing environments. Knowledgeable with HVAC controls system documentation, PID tuning, networking and troubleshooting facilities control systems and process instrumentation. Practical experience in PLC programming, process control, PID tuning, AC/DC circuits, motor controls and hydraulics and pneumatics. Strong foundation in process engineering, instrumentation and data analysis. Possess a root-cause problem solving mindset developed through roles at Tesla, PECNA ,materials research laboratories, and academic research institutions. Brings a continuous improvement (Kaizen) mindset, cross-functional collaboration experience, and the ability to bridge controls engineering, process understanding, and data-driven decision-making to improve system reliability, safety, efficiency and performance.
 
 
 #### Outline of my works are listed below:
 
 ### Projects
-1. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
-2. [New York Citibikes Analytics Dashboard: Tableau](https://github.com/bigoshunane/New-York-Citibikes-Analytics-by-Tableau)
-3. [Pewlett Hackard Analysis: Data Modeling & Engineering](https://github.com/bigoshunane/Pewlett-Hackard-Analysis-Data-Modeling)
-4. [Big Data Amazon Vine Analysis: ETL-Pipeline](https://github.com/bigoshunane/Big-Data-ETL-Pipeline-Project)
-5. [The Study of the anisotropic microstructure of uniaxially cold compacted metal powders](https://github.com/bigoshunane/Thesis-Project-MS)
+1. [The Study of the anisotropic microstructure of uniaxially cold compacted metal powders](https://github.com/bigoshunane/Thesis-Project-MS)
+2. [Michelin Data Visualization, Web app development & deployment](https://github.com/bigoshunane/Project-3)
+3. [New York Citibikes Analytics Dashboard: Tableau](https://github.com/bigoshunane/New-York-Citibikes-Analytics-by-Tableau)
+4. [Pewlett Hackard Analysis: Data Modeling & Engineering](https://github.com/bigoshunane/Pewlett-Hackard-Analysis-Data-Modeling)
+5. [Big Data Amazon Vine Analysis: ETL-Pipeline](https://github.com/bigoshunane/Big-Data-ETL-Pipeline-Project)
+
 
 ### Course work from [University of pennsylvania Data Analytics and Visualization Boot Camp](https://bootcamp.sas.upenn.edu/data/)
 
