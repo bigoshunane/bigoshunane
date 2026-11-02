@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Workineh
 
-Controls and automation professional with hands-on experience supporting commissioning, startup, troubleshooting, and optimization of facility control systems in a high-volume lithium-ion battery manufacturing environment. Experienced with HVAC and utility systems, process instrumentation, PID loop tuning, controls networking, PLC programming, and industrial automation troubleshooting. Knowledgeable in AC/DC circuits, motor controls, hydraulics, pneumatics, and process control principles.
+Enthusiastic about process Controls and automation. Hands-on experience supporting commissioning, startup, troubleshooting, and optimization of facility control systems in a high-volume lithium-ion battery manufacturing environment. Experienced with HVAC and utility systems, process instrumentation, PID loop tuning, PLC programming, and industrial automation troubleshooting. Knowledgeable in AC/DC circuits, motor controls, hydraulics, pneumatics, and process control fundamental principles.
 
-Combines a background in materials science, manufacturing operations, data analytics and automation engineering with a strong root-cause problem-solving approach developed through experience at Panasonic Energy, Tesla, research laboratories, and academic institutions. Brings a continuous improvement (Kaizen) mindset, strong cross-functional communication skills, and the ability to leverage controls engineering, process knowledge, and data-driven analysis to improve system reliability, safety, efficiency, and operational performance.
+Combines a background in materials science, manufacturing operations, data analytics and automation engineering with a strong root-cause problem-solving approach developed through experience at Panasonic Energy, Tesla, research laboratories, and academic institutions. Brings a continuous improvement (Kaizen) mindset, strong cross-functional communication skills, and the ability to leverage controls engineering, process understanding, and data-driven analysis to improve system reliability, safety, efficiency, and operational performance.
 
 
 #### Outline of my works are listed below:
